@@ -65,4 +65,7 @@ public class Util {
         /* return current duration in milliseconds */
         return currentDuration * 1000;
     }
+	/*
+	tuan cmt 
+	*/
 }
