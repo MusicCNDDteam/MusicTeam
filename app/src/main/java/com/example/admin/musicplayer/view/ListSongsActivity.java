@@ -13,7 +13,8 @@ import com.example.admin.musicplayer.R;
 import com.example.admin.musicplayer.controller.ListSongAdapter;
 import com.example.admin.musicplayer.controller.SongManager;
 import com.example.admin.musicplayer.model.SongModel;
-
+/*Create by Team TPQ
+*/
 public class ListSongsActivity extends AppCompatActivity  implements AdapterView.OnItemClickListener{
 
     private Toolbar toolBar;
