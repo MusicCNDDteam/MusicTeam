@@ -28,8 +28,8 @@ public class ListSongsActivity extends AppCompatActivity  implements AdapterView
         listSongLV=(ListView) findViewById(R.id.list_song_lv);
         //get action bar
         toolBar = (Toolbar) findViewById(R.id.my_toolbar);
-        toolBar.setTitle("Title songs");
-        toolBar.setTitleTextColor(Color.BLACK);
+        toolBar.setTitle("Title Songs");
+        toolBar.setTitleTextColor(Color.WHITE);
         toolBar.setNavigationIcon(R.drawable.back);
         setSupportActionBar(toolBar);
 
